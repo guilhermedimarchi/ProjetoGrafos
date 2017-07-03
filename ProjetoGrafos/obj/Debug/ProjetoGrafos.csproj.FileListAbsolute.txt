@@ -1,0 +1,80 @@
+D:\Dropbox\FACENS\Disciplinas\Estrutura de Dados e Algoritmos II\Aulas\Fontes\ProjetoGrafos\ProjetoGrafos\bin\Debug\ProjetoGrafos.exe.config
+D:\Dropbox\FACENS\Disciplinas\Estrutura de Dados e Algoritmos II\Aulas\Fontes\ProjetoGrafos\ProjetoGrafos\obj\Debug\ProjetoGrafos.Properties.Resources.resources
+D:\Dropbox\FACENS\Disciplinas\Estrutura de Dados e Algoritmos II\Aulas\Fontes\ProjetoGrafos\ProjetoGrafos\obj\Debug\ProjetoGrafos.csproj.GenerateResource.Cache
+D:\Dropbox\FACENS\Disciplinas\Estrutura de Dados e Algoritmos II\Aulas\Fontes\ProjetoGrafos\ProjetoGrafos\bin\Debug\ProjetoGrafos.exe
+D:\Dropbox\FACENS\Disciplinas\Estrutura de Dados e Algoritmos II\Aulas\Fontes\ProjetoGrafos\ProjetoGrafos\bin\Debug\ProjetoGrafos.pdb
+D:\Dropbox\FACENS\Disciplinas\Estrutura de Dados e Algoritmos II\Aulas\Fontes\ProjetoGrafos\ProjetoGrafos\obj\Debug\ProjetoGrafos.exe
+D:\Dropbox\FACENS\Disciplinas\Estrutura de Dados e Algoritmos II\Aulas\Fontes\ProjetoGrafos\ProjetoGrafos\obj\Debug\ProjetoGrafos.pdb
+D:\Dropbox\FACENS\Disciplinas\Estrutura de Dados e Algoritmos II\Aulas\Fontes\ProjetoGrafos\ProjetoGrafos\obj\Debug\ProjetoGrafos.Principal.resources
+D:\Dropbox\FACENS\Disciplinas\Estrutura de Dados e Algoritmos II\Aulas\Fontes\ProjetoGrafos\ProjetoGrafos\bin\Debug\Microsoft.GLEE.dll
+D:\Dropbox\FACENS\Disciplinas\Estrutura de Dados e Algoritmos II\Aulas\Fontes\ProjetoGrafos\ProjetoGrafos\bin\Debug\Microsoft.GLEE.Drawing.dll
+D:\Dropbox\FACENS\Disciplinas\Estrutura de Dados e Algoritmos II\Aulas\Fontes\ProjetoGrafos\ProjetoGrafos\bin\Debug\Microsoft.GLEE.GraphViewerGDI.dll
+D:\Dropbox\FACENS\Disciplinas\Estrutura de Dados e Algoritmos II\Aulas\Fontes\ProjetoGrafos\ProjetoGrafos\bin\Debug\Microsoft.GLEE.pdb
+D:\Dropbox\FACENS\Disciplinas\Estrutura de Dados e Algoritmos II\Aulas\Fontes\ProjetoGrafos\ProjetoGrafos\bin\Debug\Microsoft.GLEE.Drawing.pdb
+D:\Dropbox\FACENS\Disciplinas\Estrutura de Dados e Algoritmos II\Aulas\Fontes\ProjetoGrafos\ProjetoGrafos\bin\Debug\Microsoft.GLEE.GraphViewerGDI.pdb
+D:\Dropbox\FACENS\Disciplinas\Estrutura de Dados e Algoritmos II\Aulas\Fontes\ProjetoGrafos - Cortado\ProjetoGrafos\bin\Debug\ProjetoGrafos.exe.config
+D:\Dropbox\FACENS\Disciplinas\Estrutura de Dados e Algoritmos II\Aulas\Fontes\ProjetoGrafos - Cortado\ProjetoGrafos\obj\Debug\ProjetoGrafos.exe
+D:\Dropbox\FACENS\Disciplinas\Estrutura de Dados e Algoritmos II\Aulas\Fontes\ProjetoGrafos - Cortado\ProjetoGrafos\obj\Debug\ProjetoGrafos.pdb
+D:\Dropbox\FACENS\Disciplinas\Estrutura de Dados e Algoritmos II\Aulas\Fontes\ProjetoGrafos - Cortado\ProjetoGrafos\obj\Debug\ProjetoGrafos.csprojResolveAssemblyReference.cache
+D:\Dropbox\FACENS\Disciplinas\Estrutura de Dados e Algoritmos II\Aulas\Fontes\ProjetoGrafos - Cortado\ProjetoGrafos\obj\Debug\ProjetoGrafos.Principal.resources
+D:\Dropbox\FACENS\Disciplinas\Estrutura de Dados e Algoritmos II\Aulas\Fontes\ProjetoGrafos - Cortado\ProjetoGrafos\obj\Debug\ProjetoGrafos.Properties.Resources.resources
+D:\Dropbox\FACENS\Disciplinas\Estrutura de Dados e Algoritmos II\Aulas\Fontes\ProjetoGrafos - Cortado\ProjetoGrafos\obj\Debug\ProjetoGrafos.csproj.GenerateResource.Cache
+D:\Dropbox\FACENS\Disciplinas\Estrutura de Dados e Algoritmos II\Aulas\Fontes\ProjetoGrafos - Cortado\ProjetoGrafos\bin\Debug\ProjetoGrafos.exe
+D:\Dropbox\FACENS\Disciplinas\Estrutura de Dados e Algoritmos II\Aulas\Fontes\ProjetoGrafos - Cortado\ProjetoGrafos\bin\Debug\ProjetoGrafos.pdb
+D:\Dropbox\FACENS\Disciplinas\Estrutura de Dados e Algoritmos II\Aulas\Fontes\ProjetoGrafos - Cortado\ProjetoGrafos\bin\Debug\Microsoft.GLEE.dll
+D:\Dropbox\FACENS\Disciplinas\Estrutura de Dados e Algoritmos II\Aulas\Fontes\ProjetoGrafos - Cortado\ProjetoGrafos\bin\Debug\Microsoft.GLEE.Drawing.dll
+D:\Dropbox\FACENS\Disciplinas\Estrutura de Dados e Algoritmos II\Aulas\Fontes\ProjetoGrafos - Cortado\ProjetoGrafos\bin\Debug\Microsoft.GLEE.GraphViewerGDI.dll
+D:\Dropbox\FACENS\Disciplinas\Estrutura de Dados e Algoritmos II\Aulas\Fontes\ProjetoGrafos - Cortado\ProjetoGrafos\bin\Debug\Microsoft.GLEE.pdb
+D:\Dropbox\FACENS\Disciplinas\Estrutura de Dados e Algoritmos II\Aulas\Fontes\ProjetoGrafos - Cortado\ProjetoGrafos\bin\Debug\Microsoft.GLEE.Drawing.pdb
+D:\Dropbox\FACENS\Disciplinas\Estrutura de Dados e Algoritmos II\Aulas\Fontes\ProjetoGrafos - Cortado\ProjetoGrafos\bin\Debug\Microsoft.GLEE.GraphViewerGDI.pdb
+C:\Users\132173\Desktop\ProjetoGrafos-Implementar\ProjetoGrafos - Implementar\ProjetoGrafos\bin\Debug\ProjetoGrafos.exe.config
+C:\Users\132173\Desktop\ProjetoGrafos-Implementar\ProjetoGrafos - Implementar\ProjetoGrafos\obj\Debug\ProjetoGrafos.exe
+C:\Users\132173\Desktop\ProjetoGrafos-Implementar\ProjetoGrafos - Implementar\ProjetoGrafos\obj\Debug\ProjetoGrafos.pdb
+C:\Users\132173\Desktop\ProjetoGrafos-Implementar\ProjetoGrafos - Implementar\ProjetoGrafos\bin\Debug\ProjetoGrafos.exe
+C:\Users\132173\Desktop\ProjetoGrafos-Implementar\ProjetoGrafos - Implementar\ProjetoGrafos\bin\Debug\ProjetoGrafos.pdb
+C:\Users\132173\Desktop\ProjetoGrafos-Implementar\ProjetoGrafos - Implementar\ProjetoGrafos\bin\Debug\Microsoft.GLEE.pdb
+C:\Users\132173\Desktop\ProjetoGrafos-Implementar\ProjetoGrafos - Implementar\ProjetoGrafos\bin\Debug\Microsoft.GLEE.Drawing.pdb
+C:\Users\132173\Desktop\ProjetoGrafos-Implementar\ProjetoGrafos - Implementar\ProjetoGrafos\bin\Debug\Microsoft.GLEE.GraphViewerGDI.pdb
+C:\Users\132173\Desktop\ProjetoGrafos-Implementar\ProjetoGrafos - Implementar\ProjetoGrafos\obj\Debug\ProjetoGrafos.csprojResolveAssemblyReference.cache
+C:\Users\132173\Desktop\ProjetoGrafos-Implementar\ProjetoGrafos - Implementar\ProjetoGrafos\obj\Debug\ProjetoGrafos.Principal.resources
+C:\Users\132173\Desktop\ProjetoGrafos-Implementar\ProjetoGrafos - Implementar\ProjetoGrafos\obj\Debug\ProjetoGrafos.Properties.Resources.resources
+C:\Users\132173\Desktop\ProjetoGrafos-Implementar\ProjetoGrafos - Implementar\ProjetoGrafos\obj\Debug\ProjetoGrafos.csproj.GenerateResource.Cache
+D:\Usuários\guilherme\Desktop\Guilherme\Faculdade\5Sem\EDA LAB\ProjetoGrafos-Implementar\ProjetoGrafos - Implementar\ProjetoGrafos\bin\Debug\ProjetoGrafos.exe.config
+D:\Usuários\guilherme\Desktop\Guilherme\Faculdade\5Sem\EDA LAB\ProjetoGrafos-Implementar\ProjetoGrafos - Implementar\ProjetoGrafos\obj\Debug\ProjetoGrafos.exe
+D:\Usuários\guilherme\Desktop\Guilherme\Faculdade\5Sem\EDA LAB\ProjetoGrafos-Implementar\ProjetoGrafos - Implementar\ProjetoGrafos\obj\Debug\ProjetoGrafos.pdb
+D:\Usuários\guilherme\Desktop\Guilherme\Faculdade\5Sem\EDA LAB\ProjetoGrafos-Implementar\ProjetoGrafos - Implementar\ProjetoGrafos\bin\Debug\ProjetoGrafos.exe
+D:\Usuários\guilherme\Desktop\Guilherme\Faculdade\5Sem\EDA LAB\ProjetoGrafos-Implementar\ProjetoGrafos - Implementar\ProjetoGrafos\bin\Debug\ProjetoGrafos.pdb
+D:\Usuários\guilherme\Desktop\Guilherme\Faculdade\5Sem\EDA LAB\ProjetoGrafos-Implementar\ProjetoGrafos - Implementar\ProjetoGrafos\bin\Debug\Microsoft.GLEE.pdb
+D:\Usuários\guilherme\Desktop\Guilherme\Faculdade\5Sem\EDA LAB\ProjetoGrafos-Implementar\ProjetoGrafos - Implementar\ProjetoGrafos\bin\Debug\Microsoft.GLEE.Drawing.pdb
+D:\Usuários\guilherme\Desktop\Guilherme\Faculdade\5Sem\EDA LAB\ProjetoGrafos-Implementar\ProjetoGrafos - Implementar\ProjetoGrafos\bin\Debug\Microsoft.GLEE.GraphViewerGDI.pdb
+D:\Usuários\guilherme\Desktop\Guilherme\Faculdade\5Sem\EDA LAB\ProjetoGrafos-Implementar\ProjetoGrafos - Implementar\ProjetoGrafos\obj\Debug\ProjetoGrafos.csprojResolveAssemblyReference.cache
+D:\Usuários\guilherme\Desktop\Guilherme\Faculdade\5Sem\EDA LAB\ProjetoGrafos-Implementar\ProjetoGrafos - Implementar\ProjetoGrafos\obj\Debug\ProjetoGrafos.Principal.resources
+D:\Usuários\guilherme\Desktop\Guilherme\Faculdade\5Sem\EDA LAB\ProjetoGrafos-Implementar\ProjetoGrafos - Implementar\ProjetoGrafos\obj\Debug\ProjetoGrafos.Properties.Resources.resources
+D:\Usuários\guilherme\Desktop\Guilherme\Faculdade\5Sem\EDA LAB\ProjetoGrafos-Implementar\ProjetoGrafos - Implementar\ProjetoGrafos\obj\Debug\ProjetoGrafos.csproj.GenerateResource.Cache
+C:\Users\Guilherme\Desktop\FACULDADE\5Sem\LAB - EDA\ProjetoGrafos-Implementar 2\ProjetoGrafos - Implementar\ProjetoGrafos\bin\Debug\ProjetoGrafos.exe.config
+C:\Users\Guilherme\Desktop\FACULDADE\5Sem\LAB - EDA\ProjetoGrafos-Implementar 2\ProjetoGrafos - Implementar\ProjetoGrafos\obj\Debug\ProjetoGrafos.exe
+C:\Users\Guilherme\Desktop\FACULDADE\5Sem\LAB - EDA\ProjetoGrafos-Implementar 2\ProjetoGrafos - Implementar\ProjetoGrafos\obj\Debug\ProjetoGrafos.pdb
+C:\Users\Guilherme\Desktop\FACULDADE\5Sem\LAB - EDA\ProjetoGrafos-Implementar 2\ProjetoGrafos - Implementar\ProjetoGrafos\bin\Debug\ProjetoGrafos.exe
+C:\Users\Guilherme\Desktop\FACULDADE\5Sem\LAB - EDA\ProjetoGrafos-Implementar 2\ProjetoGrafos - Implementar\ProjetoGrafos\bin\Debug\ProjetoGrafos.pdb
+C:\Users\Guilherme\Desktop\FACULDADE\5Sem\LAB - EDA\ProjetoGrafos-Implementar 2\ProjetoGrafos - Implementar\ProjetoGrafos\bin\Debug\Microsoft.GLEE.pdb
+C:\Users\Guilherme\Desktop\FACULDADE\5Sem\LAB - EDA\ProjetoGrafos-Implementar 2\ProjetoGrafos - Implementar\ProjetoGrafos\bin\Debug\Microsoft.GLEE.Drawing.pdb
+C:\Users\Guilherme\Desktop\FACULDADE\5Sem\LAB - EDA\ProjetoGrafos-Implementar 2\ProjetoGrafos - Implementar\ProjetoGrafos\bin\Debug\Microsoft.GLEE.GraphViewerGDI.pdb
+C:\Users\Guilherme\Desktop\FACULDADE\5Sem\LAB - EDA\ProjetoGrafos-Implementar 2\ProjetoGrafos - Implementar\ProjetoGrafos\obj\Debug\ProjetoGrafos.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme\Desktop\FACULDADE\5Sem\LAB - EDA\ProjetoGrafos-Implementar 2\ProjetoGrafos - Implementar\ProjetoGrafos\obj\Debug\ProjetoGrafos.Principal.resources
+C:\Users\Guilherme\Desktop\FACULDADE\5Sem\LAB - EDA\ProjetoGrafos-Implementar 2\ProjetoGrafos - Implementar\ProjetoGrafos\obj\Debug\ProjetoGrafos.Properties.Resources.resources
+C:\Users\Guilherme\Desktop\FACULDADE\5Sem\LAB - EDA\ProjetoGrafos-Implementar 2\ProjetoGrafos - Implementar\ProjetoGrafos\obj\Debug\ProjetoGrafos.csproj.GenerateResource.Cache
+C:\Users\Guilherme\Google Drive\5Sem\LAB - EDA\ProjetoGrafos-Implementar 2\ProjetoGrafos - Implementar\ProjetoGrafos\bin\Debug\ProjetoGrafos.exe.config
+C:\Users\Guilherme\Google Drive\5Sem\LAB - EDA\ProjetoGrafos-Implementar 2\ProjetoGrafos - Implementar\ProjetoGrafos\obj\Debug\ProjetoGrafos.exe
+C:\Users\Guilherme\Google Drive\5Sem\LAB - EDA\ProjetoGrafos-Implementar 2\ProjetoGrafos - Implementar\ProjetoGrafos\obj\Debug\ProjetoGrafos.pdb
+C:\Users\Guilherme\Google Drive\5Sem\LAB - EDA\ProjetoGrafos-Implementar 2\ProjetoGrafos - Implementar\ProjetoGrafos\bin\Debug\ProjetoGrafos.exe
+C:\Users\Guilherme\Google Drive\5Sem\LAB - EDA\ProjetoGrafos-Implementar 2\ProjetoGrafos - Implementar\ProjetoGrafos\bin\Debug\ProjetoGrafos.pdb
+C:\Users\Guilherme\Google Drive\5Sem\LAB - EDA\ProjetoGrafos-Implementar 2\ProjetoGrafos - Implementar\ProjetoGrafos\bin\Debug\Microsoft.GLEE.pdb
+C:\Users\Guilherme\Google Drive\5Sem\LAB - EDA\ProjetoGrafos-Implementar 2\ProjetoGrafos - Implementar\ProjetoGrafos\bin\Debug\Microsoft.GLEE.Drawing.pdb
+C:\Users\Guilherme\Google Drive\5Sem\LAB - EDA\ProjetoGrafos-Implementar 2\ProjetoGrafos - Implementar\ProjetoGrafos\bin\Debug\Microsoft.GLEE.GraphViewerGDI.pdb
+C:\Users\Guilherme\Google Drive\5Sem\LAB - EDA\ProjetoGrafos-Implementar 2\ProjetoGrafos - Implementar\ProjetoGrafos\obj\Debug\ProjetoGrafos.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme\Google Drive\5Sem\LAB - EDA\ProjetoGrafos-Implementar 2\ProjetoGrafos - Implementar\ProjetoGrafos\obj\Debug\ProjetoGrafos.Principal.resources
+C:\Users\Guilherme\Google Drive\5Sem\LAB - EDA\ProjetoGrafos-Implementar 2\ProjetoGrafos - Implementar\ProjetoGrafos\obj\Debug\ProjetoGrafos.Properties.Resources.resources
+C:\Users\Guilherme\Google Drive\5Sem\LAB - EDA\ProjetoGrafos-Implementar 2\ProjetoGrafos - Implementar\ProjetoGrafos\obj\Debug\ProjetoGrafos.csproj.GenerateResource.Cache
+C:\Users\Guilherme\Google Drive\5Sem\LAB - EDA\FINALIZADOS\ProjetoGrafos-Implementar\ProjetoGrafos - Implementar\ProjetoGrafos\bin\Debug\ProjetoGrafos.exe.config
+C:\Users\Guilherme\Google Drive\5Sem\LAB - EDA\FINALIZADOS\ProjetoGrafos-Implementar\ProjetoGrafos - Implementar\ProjetoGrafos\obj\Debug\ProjetoGrafos.exe
+C:\Users\Guilherme\Google Drive\5Sem\LAB - EDA\FINALIZADOS\ProjetoGrafos-Implementar\ProjetoGrafos - Implementar\ProjetoGrafos\obj\Debug\ProjetoGrafos.pdb
